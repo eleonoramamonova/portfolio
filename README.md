@@ -4,4 +4,4 @@
 
 Хочу работать удаленно в IT сфере, поэтому решила учиться в Netology
 
-IMG_7784.jpeg
+![](https://github.com/eleonoramamonova/portfolio/blob/main/IMG_7784.jpeg?raw=true)
